@@ -1,0 +1,4 @@
+- Scripts del flujo de trabajo (pipeline).
+- Scripts para la generación del entorno de liberación.
+- Scripts de pruebas en el entorno de liberación.
+ - Scripts para la generación del despliegue.
